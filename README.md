@@ -13,11 +13,11 @@
     <a href="https://github.com/jusoftdev/diingly"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://searchify.vercel.app">Get it</a>
+    <a href="https://github.com/jusoftdev/diingly/releases/tag/v1.0.0">Get it</a>
     ·
-    <a href="https://github.com/jusoftdev/searchify/issues">Report Bug</a>
+    <a href="https://github.com/jusoftdev/diingly/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jusoftdev/searchify/issues">Request Feature</a><br>&nbsp;
+    <a href="https://github.com/jusoftdev/diingly/issues">Request Feature</a><br>&nbsp;
 <a href="https://www.buymeacoffee.com/jusoft" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
  
   </p>
@@ -42,7 +42,6 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#todo">To do</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -77,7 +76,7 @@ Setup the plugin for your environment
 
 ### Installation
 
-1. [Download the Project] (https://github.com/jusoftdev/diingly/releases/tag/v1.0.0)
+1. [Download the Project](https://github.com/jusoftdev/diingly/releases/tag/v1.0.0)
    
 2. Extract the .zip
    
@@ -125,7 +124,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the OpenGLv2 License. See `LICENSE` for more information.
 
 
 
@@ -134,7 +133,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 JuSoft - [@jusoftdev](https://twitter.com/jusoftdev) - [Discord Server](http://jsft.be/discord) - support@jusoft.dev
 
-Project Link: [https://github.com/jusoftdev/searchify](https://github.com/jusoftdev/diingly)
+Project Link: [https://github.com/jusoftdev/diingly](https://github.com/jusoftdev/diingly)
 
 
 
