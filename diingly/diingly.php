@@ -5,7 +5,7 @@
  * Plugin URI: https://jusoft.dev
  * Description: Notifies new WordPress posts on your Discord Server.
  * Version: 1.0
- * Author: juhom205
+ * Author: JuSoft
  * Author URI: https://jusoft.dev
 */
 
